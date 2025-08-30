@@ -1,4 +1,5 @@
-## 📖 Sejarah JavaScript
+
+## 📖 Sejarah JavaScript
 - **1995**: Dibuat oleh **Brendan Eich** di Netscape hanya dalam **10 hari**.  
 - Awalnya bernama **Mocha**, lalu **LiveScript**, sebelum akhirnya resmi jadi **JavaScript**.  
 - Tahun **1997**, distandarkan oleh **ECMA International** dengan nama **ECMAScript (ES)**.  
